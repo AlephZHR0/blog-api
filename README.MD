@@ -1,0 +1,1 @@
+blog - api and dto folders were not needed, than they were deleted.
